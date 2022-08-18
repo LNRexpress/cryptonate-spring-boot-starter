@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nightsky</groupId>
     <artifactId>cryptonate-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
@@ -21,6 +21,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <cryptonate.version>1.0.0</cryptonate.version>
+        <cryptonate.version>1.0.1</cryptonate.version>
     </properties>
 </project>

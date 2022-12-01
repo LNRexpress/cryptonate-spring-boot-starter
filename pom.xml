@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.nightsky</groupId>
     <artifactId>cryptonate-spring-boot-starter</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.1.1</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <groupId>com.nightsky</groupId>
             <artifactId>cryptonate-spring-boot-autoconfigure</artifactId>
-            <version>${cryptonate.version}</version>
+            <version>1.0.1.1</version>
         </dependency>
         <dependency>
             <groupId>com.nightsky</groupId>

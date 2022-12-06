@@ -33,3 +33,7 @@ mvn clean install
 ### Configuration
 
 See [cryptonate-spring-boot-autoconfigure](https://github.com/LNRexpress/cryptonate-spring-boot-autoconfigure#configuration).
+
+### Example
+
+See [cryptonate-spring-boot-example](https://github.com/LNRexpress/cryptonate-spring-boot-example) for an example of how to use the `cryptonate` library and the `cryptonate-spring-boot-starter` starter package.
